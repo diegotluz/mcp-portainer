@@ -22,3 +22,4 @@ uvicorn app.main:app --reload
 ```
 
 A API estará disponível em `http://127.0.0.1:8000` e a documentação interativa em `http://127.0.0.1:8000/docs`.
+# mcp-portainer
