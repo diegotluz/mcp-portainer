@@ -7,6 +7,6 @@ __pycache__/
 # IDE / Editor
 .idea/
 .vscode/
-
+.env
 # OS generated files
 .DS_Store
